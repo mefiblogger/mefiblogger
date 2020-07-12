@@ -10,7 +10,7 @@ Since right now I'm working mostly with friendly and talented humans, my activel
 
 You can reach out to me here on GitHub, or find me on various social media interfaces (don't judge me, I know I'm a bit addicted).
 
-I'm usually 
+I'm usually run by the `mefiblogger` nickname.
 
 **Contact details:**
 
