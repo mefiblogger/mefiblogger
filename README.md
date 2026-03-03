@@ -1,16 +1,14 @@
-### 👋 Hello there 
+### 👋 Hello stranger 
 
-It's Gábor here (but you can call me Mefi) from the pleasant city of Budapest, Hungary.
+Mefi here from the pleasant city of Budapest. I'm working as an Engineering Manager, with a focus on team productivity, collaboration, career growth and how to ship better things, faster.
 
-Currently, I'm working as an Engineering Manager at 🤖Bitrise. (We are [open-source](https://github.com/bitrise-io) and also [hiring](https://bitrise.io/jobs).) 
+With two of my friends, we're running a HU podcast on leadership&technology, called AVK Podcast.
 
-Since right now I'm working mostly with friendly and talented humans, my actively coding years are kinda behind me, but I want to remain in the loop, so I really like to wonder around open-source GitHub repositories or looking for interesting coding katas.
+I occasionally write a few pieces here and there.
 
-### 📞 Where to find me
+### ☎️ Where to find me
 
-You can reach out to me here on GitHub, or find me on various social media interfaces (don't judge me, I know I'm a bit addicted).
-
-I'm usually run by the `mefiblogger` nickname.
+You can reach out to me here on GitHub, or find me on various channels with the `@mefiblogger` handle.
 
 **Contact details:**
 
@@ -19,31 +17,8 @@ I'm usually run by the `mefiblogger` nickname.
 
 **Mostly available in 🇭🇺Hungarian language:**
 
-- [🐦@mefiblogger on Twitter](https://twitter.com/mefiblogger)
-- [🐟My professional blog called "The Fish Stinks from it's Head"](https://hal.mefi.be/)
-- [📝My personal blog, mefiblog](https://mefi.be/)
-
-**I really enjoy to take photos:**
-
-- [Instagram](https://instagram.com/mefiblogger)
-- [Flickr](https://flickr.com/photos/mefi1)
-
-### 📖 My README.md
-
-I will update this later, now I just wanted to try out this new cool GitHub feature.
-
-
-<!--
-**mefiblogger/mefiblogger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [⚡ AVK Podcast](https://avkpodcast.hu/)
+- [🐦 @mefiblogger on Bluesky](https://bsky.app/profile/mefi.be)
+- [📝 My personal blog, mefiblog](https://mefi.be/)
+- [📷 Instagram](https://instagram.com/mefiblogger)
+- [📸 Flickr](https://flickr.com/photos/mefi1)
